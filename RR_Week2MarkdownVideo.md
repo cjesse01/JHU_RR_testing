@@ -36,15 +36,16 @@ This is heading 2 (secondary)
 
 
 # Links
-## style 1
+## style 1, [text](URL)
 [Johns Hopkins Bloomberg School of Public Health](http://www.jhsph.edu/)  
 [The R Project](http://www.r-project.org/)  
 
-## style 2, literal
+## style 2, literal [URL](URL)
 [http://www.jhsph.edu/](http://www.jhsph.edu/)  
 [http://www.r-project.org/](http://www.r-project.org/)  
 
-##style 3, referenced links
+##style 3, referenced links [text][linkrefnumber]
+##later in document [linkrefnumber]: URL  "text"
 I spend so much time reading [R bloggers][1] and [Simply Statistics][2]!  
 [1]: http://www.r-bloggers.com/    "R bloggers"  
 [2]: http://simplystatistics.org/  "Simply Statistics"  
