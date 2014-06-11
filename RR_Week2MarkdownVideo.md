@@ -36,11 +36,11 @@ This is heading 2 (secondary)
 
 
 # Links
-## style 1, "[text](URL)"
+## style 1, [text] immediately followed by (URL)
 [Johns Hopkins Bloomberg School of Public Health](http://www.jhsph.edu/)  
 [The R Project](http://www.r-project.org/)  
 
-## style 2, literal [URL](URL)
+## style 2, literal [URL] immediately followed by (URL)
 [http://www.jhsph.edu/](http://www.jhsph.edu/)  
 [http://www.r-project.org/](http://www.r-project.org/)  
 
