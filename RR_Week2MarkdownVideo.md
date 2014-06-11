@@ -44,4 +44,10 @@ First line
 Second line  
 
 
+#Markdown Resources
+[http://daringfireball.net/projects/markdown/basics](http://daringfireball.net/projects/markdown/basics)  
+[https://help.github.com/articles/github-flavored-markdown](https://help.github.com/articles/github-flavored-markdown)
+http://daringfireball.net/projects/markdown/basics
+
+
 
