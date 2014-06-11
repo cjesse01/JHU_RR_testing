@@ -36,7 +36,7 @@ This is heading 2 (secondary)
 
 
 # Links
-## style 1, [text](URL)
+## style 1, "[text](URL)"
 [Johns Hopkins Bloomberg School of Public Health](http://www.jhsph.edu/)  
 [The R Project](http://www.r-project.org/)  
 
