@@ -29,7 +29,7 @@ This is heading 2 (secondary)
 2. second item in list
 3. third item in list
 
-# Ordered Lists, written out of order
+# Ordered Lists, written w/ nonsequential numbers 1,3,2
 1. first item in list
 3. second item in list
 2. third item in list
