@@ -6,11 +6,19 @@
 # BOLD, enclosed double astericks
 **This text will appear bold!**
 
-# Headings
+# Headings, atx style (multiple #'s)
 # This is Heading 1
 ## This is heading 2 (secondary)
 ### This is heading 3 (tertiary)
-        
+
+# Headings, Setext style (underlining with = or -) only for head1 and head2
+This is Heading 1
+=================
+This is heading 2 (secondary)
+-----------------------------
+### This is heading 3 (tertiary)
+
+
 # Unordered Lists
 - first item in list
 - second item in list
