@@ -16,7 +16,7 @@ This is Heading 1
 =================
 This is heading 2 (secondary)
 -----------------------------
-### This is heading 3 (tertiary)
+### This is heading 3 (tertiary, via atx)
 
 
 # Unordered Lists
@@ -28,6 +28,11 @@ This is heading 2 (secondary)
 1. first item in list
 2. second item in list
 3. third item in list
+
+# Ordered Lists, written out of order
+1. first item in list
+3. second item in list
+2. third item in list
 
 
 # Links
